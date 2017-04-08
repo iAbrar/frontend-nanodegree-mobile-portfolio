@@ -53,3 +53,7 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+### Tools I used 
+1. I used grunt to create a critical css to optimize the speed of bage here : [understanding the critical css](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
+2. I used also this website [HTML Compressor] (https://htmlcompressor.com/compressor/) to compress all my HTML, Css and js files
